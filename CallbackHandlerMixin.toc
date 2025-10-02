@@ -1,0 +1,17 @@
+## Interface: 110200
+## Title: CallbackHandlerMixin
+## Notes: Native Professional Callback System
+## Author: PiXiE
+## eMail:  pixie@add-ons.me
+## Version: 1.0.0
+## Category:System
+
+## IconAtlas: questlog-storylineicon
+
+CallbackHandlerMixin.lua
+
+# Tests - commented out for release
+# CallbackHandlerTest.lua
+
+# Examples - commented out for release  
+# CallbackHandlerExamples.lua
